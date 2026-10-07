@@ -8,13 +8,13 @@ I'm currently working with Java, JavaScript, C, HTML, CSS, SQL, and Python, whil
 
 I want to build practical projects that show what I can actually do, including:
 
--Web applications
--SaaS products
--Desktop applications
--Games
--APIs
--Automation tools
--Security and AI-focused projects
+- Web applications
+- SaaS products
+- Desktop applications
+- Games
+- APIs
+- Automation tools
+- Security and AI-focused projects
 
 I'm still exploring where I want to specialize long term, but my goal is to graduate with a strong portfolio and start my career in tech.
 
